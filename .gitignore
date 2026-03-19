@@ -42,6 +42,9 @@ pnpm-debug.log*
 .Spotlight-V100
 .Trashes
 
+# Claude Code
+.claude/
+
 # Editor
 .vscode/
 .idea/
