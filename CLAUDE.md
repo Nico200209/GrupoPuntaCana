@@ -188,7 +188,7 @@ SUPABASE_SERVICE_ROLE_KEY=
 
 | # | Date | Branch | Description |
 |---|---|---|---|
-| — | — | — | No pushes yet |
+| 1 | 2026-03-19 | main | Project init: Next.js 16 + TypeScript + TailwindCSS v4 + shadcn/ui + next-intl + next-auth + supabase + react-icons. CLAUDE.md created. |
 
 ---
 
